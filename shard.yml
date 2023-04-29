@@ -1,0 +1,13 @@
+name: bokuma
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  bokuma:
+    main: src/bokuma.cr
+
+crystal: 1.8.1
+
+license: MIT
