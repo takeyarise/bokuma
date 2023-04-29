@@ -14,6 +14,8 @@ TODO: Write usage instructions here
 
 TODO: Write development instructions here
 
+<!--
+
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/bokuma/fork>)
@@ -25,3 +27,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [your-name-here](https://github.com/your-github-user) - creator and maintainer
+-->
